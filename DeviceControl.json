@@ -1,0 +1,295 @@
+[
+    {
+        "success": true,
+        "t": 1571293457435,
+        "result": {
+            "category": "kg",
+            "functions": [
+                {
+                    "name": "Switch",
+                    "desc": "The master switch. true: Open all sub switches. false: Close all sub switches",
+                    "code": "switch",
+                    "type": "Boolean",
+                    "values": "{}"
+                },
+                {
+                    "name": "Switch 1",
+                    "desc": "Switch 1",
+                    "code": "switch_1",
+                    "type": "Boolean",
+                    "values": "{}"
+                },
+                {
+                    "name": "Switch 2",
+                    "desc": "Switch 2",
+                    "code": "switch_2",
+                    "type": "Boolean",
+                    "values": "{}"
+                },
+                {
+                    "name": "Switch 3",
+                    "desc": "Switch 3",
+                    "code": "switch_3",
+                    "type": "Boolean",
+                    "values": "{}"
+                },
+                {
+                    "name": "Switch 4",
+                    "desc": "Switch 4",
+                    "code": "switch_4",
+                    "type": "Boolean",
+                    "values": "{}"
+                },
+                {
+                    "name": "Switch 5",
+                    "desc": "Switch 5",
+                    "code": "switch_5",
+                    "type": "Boolean",
+                    "values": "{}"
+                },
+                {
+                    "name": "Switch 6",
+                    "desc": "Switch 6",
+                    "code": "switch_6",
+                    "type": "Boolean",
+                    "values": "{}"
+                },
+                {
+                    "name": "The countdown of switch 1",
+                    "desc": "The countdown of switch 1",
+                    "code": "countdown_1",
+                    "type": "Integer",
+                    "values": "{\"unit\":\"s\",\"min\":0,\"max\":86400,\"scale\":0,\"step\":1}"
+                },
+                {
+                    "name": "The countdown of switch 2",
+                    "desc": "The countdown of switch 2",
+                    "code": "countdown_2",
+                    "type": "Integer",
+                    "values": "{\"unit\":\"s\",\"min\":0,\"max\":86400,\"scale\":0,\"step\":1}"
+                },
+                {
+                    "name": "The countdown of switch 3",
+                    "desc": "The countdown of switch 3",
+                    "code": "countdown_3",
+                    "type": "Integer",
+                    "values": "{\"unit\":\"s\",\"min\":0,\"max\":86400,\"scale\":0,\"step\":1}"
+                },
+                {
+                    "name": "The countdown of switch 4",
+                    "desc": "The countdown of switch 4",
+                    "code": "countdown_4",
+                    "type": "Integer",
+                    "values": "{\"unit\":\"s\",\"min\":0,\"max\":86400,\"scale\":0,\"step\":1}"
+                },
+                {
+                    "name": "The countdown of switch 5",
+                    "desc": "The countdown of switch 5",
+                    "code": "countdown_5",
+                    "type": "Integer",
+                    "values": "{\"unit\":\"s\",\"min\":0,\"max\":86400,\"scale\":0,\"step\":1}"
+                },
+                {
+                    "name": "The countdown of switch 6",
+                    "desc": "The countdown of switch 6",
+                    "code": "countdown_6",
+                    "type": "Integer",
+                    "values": "{\"unit\":\"s\",\"min\":0,\"max\":86400,\"scale\":0,\"step\":1}"
+                },
+                {
+                    "name": "The countdown of USB 1",
+                    "desc": "The countdown of USB 1",
+                    "code": "countdown_usb1",
+                    "type": "Integer",
+                    "values": "{\"unit\":\"s\",\"min\":0,\"max\":86400,\"scale\":0,\"step\":1}"
+                },
+                {
+                    "name": "The countdown of USB 2",
+                    "desc": "The countdown of USB 2",
+                    "code": "countdown_usb2",
+                    "type": "Integer",
+                    "values": "{\"unit\":\"s\",\"min\":0,\"max\":86400,\"scale\":0,\"step\":1}"
+                },
+                {
+                    "name": "USB1 ",
+                    "desc": "USB 1",
+                    "code": "switch_usb1",
+                    "type": "Boolean",
+                    "values": "{}"
+                },
+                {
+                    "name": "USB 2",
+                    "desc": "USB 2",
+                    "code": "switch_usb2",
+                    "type": "Boolean",
+                    "values": "{}"
+                }
+            ]
+        }
+    },
+{
+        "success": true,
+        "t": 1571293776551,
+        "result": {
+            "category": "cz",
+            "functions": [
+                {
+                    "name": "Switch",
+                    "desc": "Switch",
+                    "code": "switch_1",
+                    "type": "Boolean",
+                    "values": "{}"
+                },
+                {
+                    "name": "The countdown of switch 1",
+                    "desc": "The countdown of switch 1",
+                    "code": "countdown_1",
+                    "type": "Integer",
+                    "values": "{\"unit\":\"s\",\"min\":0,\"max\":86400,\"scale\":0,\"step\":1}"
+                }
+            ]
+        }
+    },
+{
+        "result": [
+            {
+                "category": "cz",
+                "devices": [
+                    "06200286dc4f22c8418c"
+                ],
+                "functions": [
+                    {
+                        "code": "switch",
+                        "desc": "开关",
+                        "name": "开关",
+                        "type": "Boolean",
+                        "values": "{}"
+                    },
+                    {
+                        "code": "countdown_1",
+                        "desc": "开关1倒计时",
+                        "name": "开关1倒计时",
+                        "type": "Integer",
+                        "values": "{\"unit\":\"s\",\"min\":0,\"max\":86400,\"scale\":0,\"step\":1}"
+                    }
+                ]
+            }
+        ],
+        "success": true,
+        "t": 1618822009199
+    },
+  {
+        "success": true,
+        "t": 1571201730542,
+        "result": {
+            "category": "dj",
+            "functions": [
+                {
+                    "code": "switch_led",
+                    "type": "Boolean",
+                    "values": "{}"
+                },
+                {
+                    "code": "work_mode",
+                    "type": "Enum",
+                    "values": "{\"range\":[\"colour\"]}"
+                },
+                {
+                    "code": "bright_value",
+                    "type": "Integer",
+                    "values": "{\"min\":0,\"scale\":0,\"unit\":\"\",\"max\":255,\"step\":1}"
+                },
+                {
+                    "code": "colour_data",
+                    "type": "Json",
+                    "values": "{\"h\":{\"min\":1,\"scale\":0,\"unit\":\"\",\"max\":360,\"step\":1},\"s\":{\"min\":1,\"scale\":0,\"unit\":\"\",\"max\":255,\"step\":1},\"v\":{\"min\":1,\"scale\":0,\"unit\":\"\",\"max\":255,\"step\":1}}"
+                }
+            ],
+            "status": [
+                {
+                    "code": "switch_led",
+                    "type": "Boolean",
+                    "values": "{}"
+                },
+                {
+                    "code": "work_mode",
+                    "type": "Enum",
+                    "values": "{\"range\":[\"colour\"]}"
+                },
+                {
+                    "code": "bright_value",
+                    "type": "Integer",
+                    "values": "{\"min\":0,\"scale\":0,\"unit\":\"\",\"max\":255,\"step\":1}"
+                },
+                {
+                    "code": "colour_data",
+                    "type": "Json",
+                    "values": "{\"h\":{\"min\":1,\"scale\":0,\"unit\":\"\",\"max\":360,\"step\":1},\"s\":{\"min\":1,\"scale\":0,\"unit\":\"\",\"max\":255,\"step\":1},\"v\":{\"min\":1,\"scale\":0,\"unit\":\"\",\"max\":255,\"step\":1}}"
+                }
+            ]
+        }
+    },
+{
+        "commands": [
+            {
+                "code": "switch_led",
+                "value": true
+            },
+            {
+                "code": "bright",
+                "value": 30
+            }
+        ]
+    },
+{
+        "success": true,
+        "t": 1551851043862,
+        "result": true
+    },
+{
+        "success": true,
+        "t": 1545447665981,
+        "result": [
+            {
+                "code": "switch_led",
+                "value": true
+            },
+            {
+                "code": "work_mode",
+                "value": "scene_2"
+            },
+            {
+                "code": "bright_value",
+                "value": 25
+            },
+            {
+                "code": "temp_value",
+                "value": 0
+            },
+            {
+                "code": "colour_data",
+                "value": "{\"h\":37.0,\"s\":255.0,\"v\":189.0}"
+            },
+            {
+                "code": "scene_data",
+                "value": ""
+            },
+            {
+                "code": "flash_scene_1",
+                "value": ""
+            },
+            {
+                "code": "flash_scene_2",
+                "value": ""
+            },
+            {
+                "code": "flash_scene_3",
+                "value": ""
+            },
+            {
+                "code": "flash_scene_4",
+                "value": "{\"bright\":255,\"frequency\":80,\"hsv\":[{\"h\":0.0,\"s\":255.0,\"v\":255.0},{\"h\":120.0,\"s\":255.0,\"v\":255.0},{\"h\":240.0,\"s\":255.0,\"v\":255.0},{\"h\":300.0,\"s\":255.0,\"v\":255.0},{\"h\":240.0,\"s\":255.0,\"v\":255.0},{\"h\":0.0,\"s\":255.0,\"v\":255.0}],\"temperature\":255}"
+            }
+        ]
+    }
+]

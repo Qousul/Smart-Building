@@ -1,0 +1,81 @@
+[
+    {
+        "uid": "ay155********2G0fA",
+        "time_zone_id": "Asia/Shanghai",
+        "paring_type": "BLE",
+        "extension": {
+            "uuid": "5682bceac872****"
+        }
+    },
+    {
+        "result": {
+            "expire_time": 300,
+            "extension": {
+                "encrypt_key": "101********189f",
+                "random": "fa2f********cb38c"
+            },
+            "region": "AY",
+            "secret": "pr_0",
+            "token": "H73H8u7A"
+        },
+        "success": true,
+        "t": 1591257455025
+    },
+    {
+        "result": {
+            "failed": [],
+            "success": [
+                {
+                    "category": "td",
+                    "device_id": "6c4b088a4116ae16c****",
+                    "name": "Example manufacturer",
+                    "product_id": "sfclyxhrfnys****"
+                }
+            ]
+        },
+        "success": true,
+        "t": 1591872112140
+    },
+    {
+        "result": [
+            {
+                "active_time": 1566973357,
+                "update_time": 1566973363,
+                "owner_id": "5583425******",
+                "product_id": "tob46aoq******",
+                "name": "moke detector",
+                "online": true,
+                "id": "xxxxx",
+                "category": "ywbj"
+            }
+        ],
+        "t": 1566973373639,
+        "success": true
+    },
+    {
+        "success": true,
+        "t": 1565917936198,
+        "result": [
+            {
+                "active_time": 1565857222,
+                "update_time": 1565857227,
+                "owner_id": "52****57",
+                "product_id": "Mco****jXh",
+                "name": "mcs",
+                "online": false,
+                "id": "6cac4bd83****6875z88d",
+                "category": "mcs"
+            },
+            {
+                "active_time": 1565857222,
+                "update_time": 1565857227,
+                "owner_id": "52****57",
+                "product_id": "ez****rjm",
+                "name": "Example sensor",
+                "online": false,
+                "id": "6caabb588****0db3d7gbl",
+                "category": "sj"
+            }
+        ]
+    }
+]

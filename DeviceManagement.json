@@ -1,0 +1,355 @@
+[
+    {
+        "success": true,
+        "result": {
+            "active_time": 1589505938,
+            "biz_type": 299009,
+            "category": "qt",
+            "create_time": 1560827137,
+            "icon": "smart/icon/15402589135gknz23xajb_0.png",
+            "id": "60613135b121cddc294****",
+            "ip": "120.198.****.****",
+            "local_key": "3a9b50126fe473****",
+            "name": "Body fat scale",
+            "online": true,
+            "owner_id": "1070****",
+            "product_id": "g0er6hSKgMqr****",
+            "product_name": "Wifi scales_OEM",
+            "status": [
+                {
+                    "code": "weight",
+                    "value": 48900
+                },
+                {
+                    "code": "left_hand_r",
+                    "value": 0
+                },
+                {
+                    "code": "right_hand_r",
+                    "value": 0
+                },
+                {
+                    "code": "left_leg_r",
+                    "value": 0
+                },
+                {
+                    "code": "right_leg_r",
+                    "value": 0
+                },
+                {
+                    "code": "body_r",
+                    "value": 653
+                },
+                {
+                    "code": "battery_low",
+                    "value": false
+                }
+            ],
+            "sub": false,
+            "time_zone": "+08:00",
+            "uid": "ay157896239864843g****",
+            "update_time": 1589764585,
+            "uuid": "60613135b23cddc294****"
+        }
+    },
+{
+        "result": [
+            {
+                "sub": false,
+                "create_time": 1540691155,
+                "local_key": "11a53bdd67e4****",
+                "owner_id": "357****",
+                "ip": "**.62.43.**",
+                "biz_type": 293964,
+                "icon": "smart/product_icon/cz.png",
+                "time_zone": "+08:00",
+                "uuid": "27511006b4e62d4b****",
+                "product_name": "Wi-Fi Smart Metering Socket",
+                "active_time": 1548584422,
+                "uid": "ay1548569152777Q****",
+                "update_time": 1548584559,
+                "product_id": "EvolhYPyZNWYP***",
+                "name": "xxx test",
+                "online": true,
+                "id": "27511006b4e62d4b****",
+                "category": "cz",
+                "status": [
+                    {
+                        "code": "cur_power",
+                        "value": 0
+                    },
+                    {
+                        "code": "cur_voltage",
+                        "value": 2196
+                    },
+                    {
+                        "code": "switch",
+                        "value": false
+                    },
+                    {
+                        "code": "countdown_1",
+                        "value": 0
+                    },
+                    {
+                        "code": "cur_current",
+                        "value": 0
+                    }
+                ]
+            }
+        ],
+        "t": 1564996327422,
+        "success": true
+    },
+{
+        "result": {
+            "devices": [
+                {
+                    "active_time": 1584063323,
+                    "biz_type": 310002,
+                    "category": "znyxss",
+                    "create_time": 1575017570,
+                    "icon": "smart/program_category_icon/znyxss.png",
+                    "id": "747b2165d9449964****",
+                    "ip": "58.251.**.****",
+                    "local_key": "11d7f7286caa****",
+                    "model": "SS190",
+                    "name": "Wi-Fi smart speaker SS190",
+                    "online": false,
+                    "owner_id": "1160****",
+                    "product_id": "i9vkz***",
+                    "product_name": "Wi-Fi smart speaker SS190",
+                    "status": [
+                        {
+                            "code": "smartspeaker_vol",
+                            "value": 26
+                        },
+                        {
+                            "code": "smartspeaker_mic",
+                            "value": true
+                        },
+                        {
+                            "code": "smartspeaker_play",
+                            "value": false
+                        },
+                        {
+                            "code": "smartspeaker_wm_switch",
+                            "value": "btm"
+                        },
+                        {
+                            "code": "smartspeaker_bt_switch",
+                            "value": false
+                        },
+                        {
+                            "code": "smartspeaker_pre",
+                            "value": false
+                        },
+                        {
+                            "code": "smartspeaker_next",
+                            "value": false
+                        },
+                        {
+                            "code": "smartspeaker_play_mode",
+                            "value": "random"
+                        },
+                        {
+                            "code": "smartspeaker_alarm_clock",
+                            "value": ""
+                        },
+                        {
+                            "code": "smartspeaker_alert",
+                            "value": ""
+                        },
+                        {
+                            "code": "ir_send",
+                            "value": "{\"control\":\"study_exit\"}"
+                        },
+                        {
+                            "code": "ir_study_code",
+                            "value": ""
+                        }
+                    ],
+                    "sub": false,
+                    "time_zone": "+08:00",
+                    "uid": "ay156531946658X****",
+                    "update_time": 1584939489,
+                    "uuid": "12****"
+                }
+            ],
+            "last_id": "158493****",
+            "total": 1
+        },
+        "success": true,
+        "t": 1586741851210
+    },
+{
+        "success": true,
+        "t": 1562229928732,
+        "result": true
+    },
+{
+        "success": true,
+        "t": 1561344464370,
+        "result": {
+            "logs": [
+                {
+                    "code": "switch_1",
+                    "value": "false",
+                    "event_time": 1560872567955,
+                    "event_from": "1",
+                    "event_id": 7
+                },
+                {
+                    "code": "switch_1",
+                    "value": "false",
+                    "event_time": 1560783276382,
+                    "event_from": "1",
+                    "event_id": 7
+                }
+            ],
+            "device_id": "75500780ecfabc9a****",
+            "has_next": true,
+            "current_row_key": "NjUwODIzNDU1ZjY4YTljYmFmY2UwODcwMDU1N185MjIzMzcwNDc1OTgyMjA3ODUyXzdfMQ==",
+            "next_row_key": "NjUwODIzNDU1ZjY4YTljYmFmY2UwODcwMDU1N185MjIzMzcwNDc2MDcxNDk5OTM0XzdfMQ=="
+        }
+    },
+{
+        "success": true,
+        "t": 1561344464370,
+        "result": {
+            "count": 32,
+            "device_id": "75500780ecfabc9a****",
+            "has_next": true,
+            "logs": [
+                {
+                    "event_id": 1,
+                    "event_time": 1562031576431,
+                    "event_from": "1",
+                    "row": "650823455f68a9cbafce08700557_9223370474823199376_1",
+                    "status": "1"
+                },
+                {
+                    "event_id": 1,
+                    "event_time": 1562031394665,
+                    "event_from": "1",
+                    "row": "650823455f68a9cbafce08700557_9223370474823381142_1",
+                    "status": "1"
+                },
+                {
+                    "event_id": 1,
+                    "event_time": 1562031277824,
+                    "event_from": "1",
+                    "row": "650823455f68a9cbafce08700557_9223370474823497983_1",
+                    "status": "1"
+                },
+                {
+                    "event_id": 1,
+                    "event_time": 1561935500636,
+                    "event_from": "1",
+                    "row": "650823455f68a9cbafce08700557_9223370474919275171_1",
+                    "status": "1"
+                }
+            ]
+        }
+    },
+{
+        "success": false,
+        "code": 2009,
+        "msg": "not support this device",
+        "t": 1561348644346
+    },
+{
+        "success": true,
+        "t": 1550642917632,
+        "result": true
+    },
+{
+        "result": [
+            {
+                "active_time": 1586169374,
+                "category": "sj",
+                "id": "6c0746cfe887e21e8b****",
+                "name": "Water leakage alarm",
+                "online": true,
+                "owner_id": "1059****",
+                "product_id": "rzeSU2h9uoklx***",
+                "update_time": 1586169379
+            }
+        ],
+        "success": true,
+        "t": 1586169580204
+    },
+{
+        "result": [
+            {
+                "id": "002008535ccf7f53****",
+                "mac": "5c:cf:7f:53:**:**",
+                "uuid": "002008535ccf7f53****"
+            }
+        ],
+        "success": true,
+        "t": 1585619435816
+    },
+{
+        "t": 1234876331,
+        "success": true,
+        "result": true
+    },
+{
+        "t": 1564996327422,
+        "success": true,
+        "result": "5121231"
+    },
+{
+        "t": 1564996327422,
+        "success": true,
+        "result": true
+    },
+{
+        "t": 1564996327422,
+        "success": true,
+        "result": true
+    },
+{
+        "t": 1564996327422,
+        "success": true,
+        "result": {
+            "device_id": "vedeo1623****",
+            "nick_name": "",
+            "sex": 1,
+            "birthday": 1544996327422,
+            "height": 178,
+            "weight": 160,
+            "contact": ""
+        }
+    },
+{
+        "t": 1564996327422,
+        "success": true,
+        "result": [
+            {
+                "device_id": "vedeo1623****",
+                "nick_name": "",
+                "sex": 1,
+                "birthday": 1544996327422,
+                "height": 178,
+                "weight": 160,
+                "contact": ""
+            }
+        ]
+    },
+{
+        "t": 1234876331,
+        "success": true,
+        "result": true
+    },
+{
+        "t": 1234876331,
+        "success": true,
+        "result": [
+            {
+                "identifier": "",
+                "name": ""
+            }
+        ]
+    }
+]
